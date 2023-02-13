@@ -1,0 +1,10 @@
+{
+    "categories": {
+        "0": "media"
+    },
+    "description": "Transform the shareable links of your images hosted on Google Drive into URLs that you can display in your Bubble app.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1676315125126x657435462754361200/Bubble%20plugin%20image%20%281%29.png",
+    "license": "open_source",
+    "name": "google drive image url",
+    "plugin_instructions": "Insert this element on the page\nPaste the link of a shareable image at an input, and use the action to transform this link into a embeddable URL."
+}

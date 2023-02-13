@@ -1,0 +1,12 @@
+{
+    "caption": "Turn into a shareable link",
+    "fields": {
+        "AAH": {
+            "caption": "Original link",
+            "editor": "DynamicValue",
+            "name": "original_link",
+            "rank": 0,
+            "value": "text"
+        }
+    }
+}
